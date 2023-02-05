@@ -1,6 +1,6 @@
 {
     "name": "Flan T5 Large Summarization",
-    "category": "Natural Language Processing",
+    "category": "Natural Language",
     "example_input": {
         "prompt": "A long text to summarize."
     },
